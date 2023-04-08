@@ -4,8 +4,9 @@
   <groupId>org.springframework.samples</groupId>
   <artifactId>spring-petclinic</artifactId>
   <version>3.0.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
 
-  <parent>
+    <parent>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
     <version>3.0.4</version>
